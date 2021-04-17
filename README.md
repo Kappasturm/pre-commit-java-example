@@ -55,4 +55,4 @@ It also:
 - detects private keys
 - fixes the end of files (removes and adds newline)
 - removes trailing whitespaces
-- checks for files `>5` (ignores lfs files)
+- checks for files `>5MB` (ignores lfs files)
