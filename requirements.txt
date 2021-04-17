@@ -1,0 +1,17 @@
+appdirs==1.4.4
+attrs==20.3.0
+cfgv==3.2.0
+distlib==0.3.1
+filelock==3.0.12
+identify==2.2.3
+importlib-metadata==3.10.1
+markdown-it-py==0.6.2
+mdformat==0.7.2
+mdit-py-plugins==0.2.6
+nodeenv==1.6.0
+pre-commit==2.12.1
+PyYAML==5.4.1
+six==1.15.0
+toml==0.10.2
+virtualenv==20.4.3
+zipp==3.4.1
